@@ -91,7 +91,7 @@ projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
   # > set this to stars, if you want to sort your github repositories by stars.
-  sort_by: pushed
+  sort_by: stars
   exclude:
     # archived:
     # > setting this to true, will exclude archived repositories
@@ -103,8 +103,11 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
-    # - repo1-to-be-excluded
-    # - repo2-to-be-excluded
+    - google-homepage
+    - jollibee
+    - todo-list
+    - fatrixienicolieopetina
+
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
