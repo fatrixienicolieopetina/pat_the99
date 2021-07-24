@@ -7,7 +7,8 @@ title: Patricia Nicole Opetina
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: ""
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://fatrixienicolieopetina.github.io/pat_the99" 
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -86,7 +87,7 @@ contact_description: Anything to share or say? Contact me.
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: fatrixienicolieopetina/fatrixienicolieopetina.github.io
+repository: fatrixienicolieopetina/pat_the99
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
