@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: Angular
-  weight: 5
+  weight: 2
 
 - name: React
   weight: 1
