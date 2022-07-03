@@ -16,10 +16,19 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
-
+- title: ING Hubs Philippines
+  title-url: https://www.linkedin.com/company/ing/
+  date: July 2022 - Present
+  subtitle: Engineer - Java
+  tags:
+    - tag: Java
+    - tag: Javascript
+    - tag: Jakarta EE
+  timeline-side: right
+  
 - title: ISR Cebu Corp.
   title-url: https://www.linkedin.com/company/international-systems-research-co-/mycompany/
-  date: Nov 2019 - Present
+  date: Nov 2019 - June 2022
   subtitle: Junior Software Developer
   tags:
     - tag: Java
