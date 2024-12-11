@@ -14,16 +14,15 @@ baseurl: "/pat_the99"
 username: Patricia Nicole
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Software Developer
+typing_text: Software Engineer
 # email: Your E-Mail address for the email button.
 email: patricianicole.opetina@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
-#twitter_username: colemepat
 github_username: fatrixienicolieopetina
 dev_username: pat_the99
 linkedin_username: patricia-nicole-opetina-b589a0209
-twitter_username: colemepat
+twitter_username: 
 codepen_username: 
 
 # ABOUT ME SECTION
@@ -34,7 +33,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Software Developer with 2+ years experience in Java development. Currently employed as a junior in International Systems Research Cebu Corp. Aside from Java, also doing some Angular development on the sides. Plays with front-end on my free-time. Sample works can be found at <a class="highlight-link" href="https://github.com/fatrixienicolieopetina" target="_blank" rel="noreferrer"> Github </a>.
+about_me_description: Software Developer with 5+ years experience in Java development. Currently employed as mid-level Java backend engineer at ING Hubs PH. Aside from Java, also doing some JS development on the sides. Plays with front-end on my free-time. Sample works can be found at <a class="highlight-link" href="https://github.com/fatrixienicolieopetina" target="_blank" rel="noreferrer"> Github </a>.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +52,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://drive.google.com/file/d/1LY33eE2CNTt6GBwcjX-mA3RS-RGGCLAb/view?usp=sharing
+cv_download_link: https://drive.google.com/file/d/11czBjaQEaH8-Oo3fO-LqIJnclfTGcLzq/view?usp=share_link
 
 # PROJECTS SECTION
 # show_projects_card:

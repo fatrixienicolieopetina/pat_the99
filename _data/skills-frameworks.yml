@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: Angular
-  weight: 2
+  weight: 1
 
 - name: React
   weight: 1
@@ -14,5 +14,8 @@
 - name: Spring
   weight: 1
 
-- name: Spring-boot
+- name: Spring Boot
+  weight: 3
+
+- name: Hibernate
   weight: 2
