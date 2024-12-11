@@ -11,11 +11,14 @@
 - name: Bash
   weight: 2
 
-- name: Scrum
-  weight: 1
+- name: Postman
+  weight: 3
 
-- name: Jenkins
-  weight: 1
+- name: Jmeter
+  weight: 2
+
+- name: Intellij
+  weight: 3
 
 - name: Chrome DevTools
   weight: 2
@@ -28,3 +31,6 @@
 
 - name: Postman
   weight: 2
+
+- name: Scrum
+  weight: 1
